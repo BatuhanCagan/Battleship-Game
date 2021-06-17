@@ -2,8 +2,8 @@ from random import randint
 board = []
 sayac = 0
 puan = 250
-for i in range(5):
-    board.append(["0"]*5)
+for i in range(10):
+    board.append(["0"]*10)
 
 def print_board(board):
     for satir in board:
