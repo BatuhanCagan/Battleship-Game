@@ -1,3 +1,3 @@
 # Battleship-Game
 This game is simple console game.
-Enter raws and collums number and join the war.
+Enter rows and collumns number and join the war.
